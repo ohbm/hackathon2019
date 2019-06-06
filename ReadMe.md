@@ -18,7 +18,7 @@ Open science is essential for being able to work together effectively. We want t
 
 ### List of projects
 
-You can find a living document of the Hackathon projects as a google sheet at: https://docs.google.com/spreadsheets/d/15grRPW0H4uFXWjUZd4n2UFgaEPEmWnXd4kexYBm3eNU/edit?usp=sharing.
+You can find a living document of the Hackathon projects as [a google sheet](https://docs.google.com/spreadsheets/d/15grRPW0H4uFXWjUZd4n2UFgaEPEmWnXd4kexYBm3eNU/edit?usp=sharing).
 
 It contains information on:
 * Project name
@@ -31,3 +31,5 @@ It contains information on:
 * Physical location (Fri AM)
 * Physical location (Fri PM)
 * Physical location (Sat AM)
+
+Please make sure your group is represented there to make it easy for others to find you and join in!
