@@ -1,7 +1,7 @@
 ![shiba love](https://user-images.githubusercontent.com/6297454/47931389-f6cc1800-dece-11e8-9169-0477c9400733.gif)
 
 # hackathon2019
-Website and projects for the OHBM Hackathon in Rome 2019
+This is Website and projects for the OHBM Hackathon in Rome 2019
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/hackathon2019/Lobby#) &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://mattermost.brainhack.org"><img src="http://www.mattermost.org/wp-content/uploads/2016/03/logoHorizontal.png" width=100px />Join Brainhack's Mattermost</a>
