@@ -34,7 +34,7 @@ It contains information on:
 * Physical location (Fri PM)
 * Physical location (Sat AM)
 
-Please make sure your group is represented there to make it easy for others to find you and join in!
+Please make sure your group had represented there to make it easy for others to find you and join in!
 
 
 ### Venues
@@ -49,7 +49,7 @@ There are four physical locations for the largest OHBM Hackathon yet!
 
 ### Code of conduct
 
-The following text is taken from the OHBM Code of Conduct, available in full at https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846:
+The following text is taken from the OHBM Code of Conduct, full text available at https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3846:
 
 > OHBM stands against discrimination in all forms and at every organizational level.
 > Discrimination based on, but not limited to geographic location, gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, accent, race, ethnicity, age or religion does not abide by OHBM’s values.
