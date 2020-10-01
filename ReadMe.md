@@ -13,6 +13,7 @@ Brainhacks have become part of our way of doing science in a connected world sin
 Brainhacks are the opportunity to try new ideas, to discover new tools, to adopt open science best practices and actively push its boundaries, and to meet the people from all disciplines that are inventing tomorrow’s brain mapping.  
 
 We aim at providing a space where we can all thrive, no matter if it is our first hackathon or if we have never missed one, sharing the best of the support we have received by the open science community during the years.  
+There are multiple categories where you folks can participate in, Its pretty interesting. 
 
 Open science is essential for being able to work together effectively. We want to help build a community where openness is the norm and siloes the exception.
 
