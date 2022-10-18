@@ -10,58 +10,58 @@ git_skills:2_branches_PRs:
 git_skills:3_continuous_integration:
     - '3_continuous_integration'
 # Modality labels
-modality:behavioral:
+behavioral:
     - 'behavioral'
-modality:DWI:
+DWI:
     - 'DWI'
-modality:ECG:
+ECG:
     - 'ECG'
-modality:ECOG:
+ECOG:
     - 'ECOG'
-modality:EEG:
+EEG:
     - 'EEG'
-modality:eye_tracking:
+eye_tracking:
     - 'eye_tracking'
-modality:fMRI:
+fMRI:
     - 'fMRI'
-modality:fNIRS:
+fNIRS:
     - 'fNIRS'
-modality:MEG:
+MEG:
     - 'MEG'
-modality:MRI:
+MRI:
     - 'MRI'
-modality:PET:
+PET:
     - 'PET'
-modality:TDCS:
+TDCS:
     - 'TDCS'
-modality:TMS:
+TMS:
     - 'TMS'
 # Programming labels
-programming:C++:
+C++:
     - 'C\+\+'
-programming:containerization:
+containerization:
     - 'containerization'
-programming:documentation:
+documentation:
     - 'documentation'
-programming:Java:
+Java:
     - 'Java'
-programming:Javascript:
+Javascript:
     - 'Javascript'
-programming:Julia:
+Julia:
     - 'Julia'
-programming:Matlab:
+Matlab:
     - 'Matlab'
-programming:none:
+none:
     - 'no_programming_involved'
-programming:Python:
+Python:
     - 'Python'
-programming:R:
+R:
     - '`R`'
-programming:shell_scripting:
+shell_scripting:
     - 'shell_scripting'
-programming:Unix_command_line:
+Unix_command_line:
     - 'unix_command_line'
-programming:html_css:
+html_css:
     - 'html_css'
 # Project development status labels
 project_development_status:0_concept_no_content:
@@ -95,90 +95,90 @@ project_type:tutorial_recording:
 project_type:visualisation:
     - 'visualisation'
 # Tool labels
-tools:AFNI:
+AFNI:
     - 'AFNI'
-tools:ANTs:
+ANTs:
     - 'ANTs'
-tools:BIDS:
+BIDS:
     - 'BIDS'
-tools:Brainstorm:
+Brainstorm:
     - 'Brainstorm'
-tools:CPAC:
+CPAC:
     - 'CPAC'
-tools:Datalad:
+Datalad:
     - 'Datalad'
-tools:DIPY:
+DIPY:
     - 'DIPY'
-tools:FieldTrip:
+FieldTrip:
     - 'FieldTrip'
-tools:fMRIPrep:
+fMRIPrep:
     - 'fMRIPrep'
-tools:Freesurfer:
+Freesurfer:
     - 'Freesurfer'
-tools:FSL:
+FSL:
     - 'FSL'
-tools:Jupyter:
+Jupyter:
     - 'Jupyter'
-tools:MNE:
+MNE:
     - 'MNE'
-tools:MRtrix:
+MRtrix:
     - 'MRtrix'
-tools:Nipype:
+Nipype:
     - 'Nipype'
-tools:NWB:
+NWB:
     - 'NWB'
-tools:SPM:
+SPM:
     - 'SPM'
 # Topic labels
-topic:Bayesian_approaches:
+Bayesian_approaches:
     - 'Bayesian_approaches'
-topic:causality:
+causality:
     - 'causality'
-topic:connectome:
+connectome:
     - 'connectome'
-topic:data_visualisation:
+data_visualisation:
     - 'data_visualisation'
-topic:deep_learning:
+deep_learning:
     - 'deep_learning'
-topic:diffusion:
+diffusion:
     - 'diffusion'
-topic:diversity_inclusivity_equality:
+diversity_inclusivity_equality:
     - 'diversity_inclusivity_equality'
-topic:EEG_EventRelatedResponseModelling:
+EEG_EventRelatedResponseModelling:
     - 'EEG_EventRelatedResponseModelling'
-topic:EEG_source_modelling:
+EEG_source_modelling:
     - 'EEG_source_modelling'
-topic:Granger_causality:
+Granger_causality:
     - 'Granger_causality'
-topic:hypothesis_testing:
+hypothesis_testing:
     - 'hypothesis_testing'
-topic:ICA:
+ICA:
     - 'ICA'
-topic:information_theory:
+information_theory:
     - 'information_theory'
-topic:machine_learning:
+machine_learning:
     - 'machine_learning'
-topic:MR_methodologies:
+MR_methodologies:
     - 'MR_methodologies'
-topic:neural_decoding:
+neural_decoding:
     - 'neural_decoding'
-topic:neural_encoding:
+neural_encoding:
     - 'neural_encoding'
-topic:neural_networks:
+neural_networks:
     - 'neural_networks'
-topic:PCA:
+PCA:
     - 'PCA'
-topic:physiology:
+physiology:
     - 'physiology'
-topic:reinforcement_learning:
+reinforcement_learning:
     - 'reinforcement_learning'
-topic:reproducible_scientific_methods:
+reproducible_scientific_methods:
     - 'reproducible_scientific_methods'
-topic:single_neuron_models:
+single_neuron_models:
     - 'single_neuron_models'
-topic:statistical_modelling:
+statistical_modelling:
     - 'statistical_modelling'
-topic:systems_neuroscience:
+systems_neuroscience:
     - 'systems_neuroscience'
-topic:tractography:
+tractography:
     - 'tractography'
