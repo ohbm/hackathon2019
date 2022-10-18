@@ -1,0 +1,20 @@
+name: "Label from issue first message body"
+# See https://github.com/marketplace/actions/regex-issue-labeler
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  labeller:
+    if: github.repository_owner == 'ohbm'
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: github/issue-labeler@v2.5
+        with:
+          # Secret token needed (not sure which permisions though)
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          # File with label/regex match dictionary
+          configuration-path: .github/labeler.yml
+          # This can be increased if the dictionary undergoes a breaking change
+          enable-versioned-regex: 0

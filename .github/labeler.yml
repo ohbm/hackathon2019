@@ -1,0 +1,184 @@
+# All the possible labels, except for "status" labels and repo mainteinance labels (e.g. "bug")
+
+# Git skills labels
+git_skills:0_none:
+    - '0_no_git_skills'
+git_skills:1_commit_push:
+    - '1_commit_push'
+git_skills:2_branches_PRs:
+    - '2_branches_PRs'
+git_skills:3_continuous_integration:
+    - '3_continuous_integration'
+# Modality labels
+modality:behavioral:
+    - 'behavioral'
+modality:DWI:
+    - 'DWI'
+modality:ECG:
+    - 'ECG'
+modality:ECOG:
+    - 'ECOG'
+modality:EEG:
+    - 'EEG'
+modality:eye_tracking:
+    - 'eye_tracking'
+modality:fMRI:
+    - 'fMRI'
+modality:fNIRS:
+    - 'fNIRS'
+modality:MEG:
+    - 'MEG'
+modality:MRI:
+    - 'MRI'
+modality:PET:
+    - 'PET'
+modality:TDCS:
+    - 'TDCS'
+modality:TMS:
+    - 'TMS'
+# Programming labels
+programming:C++:
+    - 'C\+\+'
+programming:containerization:
+    - 'containerization'
+programming:documentation:
+    - 'documentation'
+programming:Java:
+    - 'Java'
+programming:Javascript:
+    - 'Javascript'
+programming:Julia:
+    - 'Julia'
+programming:Matlab:
+    - 'Matlab'
+programming:none:
+    - 'no_programming_involved'
+programming:Python:
+    - 'Python'
+programming:R:
+    - '`R`'
+programming:shell_scripting:
+    - 'shell_scripting'
+programming:Unix_command_line:
+    - 'unix_command_line'
+programming:html_css:
+    - 'html_css'
+# Project development status labels
+project_development_status:0_concept_no_content:
+    - '0_concept_no_content'
+project_development_status:1_basic structure:
+    - '1_basic structure'
+project_development_status:2_releases_existing:
+    - '2_releases_existing'
+# Skill level labels
+project_tools_skills:comfortable:
+    - 'comfortable'
+project_tools_skills:expert:
+    - 'expert'
+project_tools_skills:familiar:
+    - 'familiar'
+project_tools_skills:none:
+    - 'no_skills_required'
+# Project type labels
+project_type:coding_methods:
+    - 'coding_methods'
+project_type:data_management:
+    - 'data_management'
+project_type:documentation:
+    - 'documentation'
+project_type:method_development:
+    - 'method_development'
+project_type:pipeline_development:
+    - 'pipeline_development'
+project_type:tutorial_recording:
+    - 'tutorial_recording'
+project_type:visualisation:
+    - 'visualisation'
+# Tool labels
+tools:AFNI:
+    - 'AFNI'
+tools:ANTs:
+    - 'ANTs'
+tools:BIDS:
+    - 'BIDS'
+tools:Brainstorm:
+    - 'Brainstorm'
+tools:CPAC:
+    - 'CPAC'
+tools:Datalad:
+    - 'Datalad'
+tools:DIPY:
+    - 'DIPY'
+tools:FieldTrip:
+    - 'FieldTrip'
+tools:fMRIPrep:
+    - 'fMRIPrep'
+tools:Freesurfer:
+    - 'Freesurfer'
+tools:FSL:
+    - 'FSL'
+tools:Jupyter:
+    - 'Jupyter'
+tools:MNE:
+    - 'MNE'
+tools:MRtrix:
+    - 'MRtrix'
+tools:Nipype:
+    - 'Nipype'
+tools:NWB:
+    - 'NWB'
+tools:SPM:
+    - 'SPM'
+# Topic labels
+topic:Bayesian_approaches:
+    - 'Bayesian_approaches'
+topic:causality:
+    - 'causality'
+topic:connectome:
+    - 'connectome'
+topic:data_visualisation:
+    - 'data_visualisation'
+topic:deep_learning:
+    - 'deep_learning'
+topic:diffusion:
+    - 'diffusion'
+topic:diversity_inclusivity_equality:
+    - 'diversity_inclusivity_equality'
+topic:EEG_EventRelatedResponseModelling:
+    - 'EEG_EventRelatedResponseModelling'
+topic:EEG_source_modelling:
+    - 'EEG_source_modelling'
+topic:Granger_causality:
+    - 'Granger_causality'
+topic:hypothesis_testing:
+    - 'hypothesis_testing'
+topic:ICA:
+    - 'ICA'
+topic:information_theory:
+    - 'information_theory'
+topic:machine_learning:
+    - 'machine_learning'
+topic:MR_methodologies:
+    - 'MR_methodologies'
+topic:neural_decoding:
+    - 'neural_decoding'
+topic:neural_encoding:
+    - 'neural_encoding'
+topic:neural_networks:
+    - 'neural_networks'
+topic:PCA:
+    - 'PCA'
+topic:physiology:
+    - 'physiology'
+topic:reinforcement_learning:
+    - 'reinforcement_learning'
+topic:reproducible_scientific_methods:
+    - 'reproducible_scientific_methods'
+topic:single_neuron_models:
+    - 'single_neuron_models'
+topic:statistical_modelling:
+    - 'statistical_modelling'
+topic:systems_neuroscience:
+    - 'systems_neuroscience'
+topic:tractography:
+    - 'tractography'
