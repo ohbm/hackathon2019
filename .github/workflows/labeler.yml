@@ -13,7 +13,7 @@ jobs:
       - uses: github/issue-labeler@v2.5
         with:
           # Secret token needed (not sure which permisions though)
-          repo-token: "${{ secrets.GITHUB_TOKEN }}"
+          repo-token: "${{ secrets.LABELER }}"            
           # File with label/regex match dictionary
           configuration-path: .github/labeler.yml
           # This can be increased if the dictionary undergoes a breaking change
